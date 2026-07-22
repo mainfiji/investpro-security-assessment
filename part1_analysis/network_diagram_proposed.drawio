@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.3">
+  <diagram name="Страница — 1" id="9pDSUsfMLe3AMlNBw46Z">
+    <mxGraphModel dx="1678" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Сегмет управления&lt;br&gt;&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-weight: 400; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; text-align: start; margin: 0px !important;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(249, 250, 251), rgb(222, 234, 244));&quot;&gt;(192.168.100.0/24)&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="470" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Сегмет управления&lt;br&gt;&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-weight: 400; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; text-align: start; margin: 0px !important;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(249, 250, 251), rgb(222, 234, 244));&quot;&gt;(192.168.100.0/24)&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="160" width="210" x="480" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-3" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diagGrid;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;" value="" vertex="1">
+          <mxGeometry height="134" width="140" x="530" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1;fontSize=14;" value="Головной офис" vertex="1">
+          <mxGeometry height="796" width="910" x="120" y="194" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Сегмент пользователей&lt;br&gt;192.168.0.0/24" vertex="1">
+          <mxGeometry height="680" width="204" x="238" y="246.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-3" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" value="Интернет" vertex="1">
+          <mxGeometry height="80" width="120" x="330" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-4" parent="1" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;fontSize=14;fontStyle=1" value="user-go-lebed&lt;div&gt;192.168.0.10&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="50" x="315" y="474" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-5" parent="1" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;fontSize=14;fontStyle=1" value="user-go-solov&lt;div&gt;192.168.0.20&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="50" x="315" y="583" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1" value="Сегмент серверов&lt;br&gt;192.168.50.0/24" vertex="1">
+          <mxGeometry height="687" width="193" x="726" y="243" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-7" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server;fontStyle=1;fontSize=14;" value="srv-trueconf&lt;div&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;192.168.50.50&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57" width="48" x="798.5" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-9" parent="1" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;fontSize=14;fontStyle=1" value="admin-go-pc&lt;div&gt;192.168.0.50&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="50" x="315" y="693" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-10" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.file_server;fontStyle=1;fontSize=14;" value="srv-fs&lt;br&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;192.168.50.30&lt;/span&gt;" vertex="1">
+          <mxGeometry height="56" width="45" x="798.5" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-16" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="eth_servers: 192.168.50.254" vertex="1">
+          <mxGeometry height="30" width="110" x="608" y="544" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-17" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="eth_users: 192.168.0.254" vertex="1">
+          <mxGeometry height="30" width="110" x="446" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-18" parent="1" style="points=[[0.03,0.03,0],[0.5,0,0],[0.97,0.03,0],[1,0.4,0],[0.97,0.745,0],[0.5,1,0],[0.03,0.745,0],[0,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.workstation;fillColor=#005073;strokeColor=none;fontSize=14;fontStyle=1" value="user-go-boss&lt;div&gt;192.168.0.1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="50" x="315" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-19" edge="1" parent="1" source="fLBc8PcX_urAEtUhWg5i-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontSize=14;dashed=1;" target="fLBc8PcX_urAEtUhWg5i-29" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-26" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.hybrid_server;fontStyle=1;fontSize=14;" value="srv-dns&lt;br&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;192.168.50.70&lt;/span&gt;" vertex="1">
+          <mxGeometry height="52" width="59" x="794" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-27" edge="1" parent="1" source="fLBc8PcX_urAEtUhWg5i-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="fLBc8PcX_urAEtUhWg5i-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="324" />
+              <mxPoint x="670" y="586" />
+            </Array>
+            <mxPoint x="616.5999999999997" y="493.42857142857156" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-28" edge="1" parent="1" source="fLBc8PcX_urAEtUhWg5i-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558" y="586.9999999999998" as="sourcePoint" />
+            <mxPoint x="442" y="586.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-29" parent="1" style="sketch=0;points=[[0.5,0,0],[1,0.5,0],[0.5,1,0],[0,0.5,0],[0.145,0.145,0],[0.8555,0.145,0],[0.855,0.8555,0],[0.145,0.855,0]];verticalLabelPosition=bottom;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=router;fillColor=#FAFAFA;strokeColor=#005073;labelBackgroundColor=none;fontStyle=1;fontSize=14;rounded=1;curved=0;" value="router-go&#xa;Межсетевой экран" vertex="1">
+          <mxGeometry height="49" width="49" x="582.25" y="194" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-30" parent="1" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;fontSize=14;" value="" vertex="1">
+          <mxGeometry height="35" width="50" x="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-31" parent="1" style="shape=actor;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontStyle=1;fontSize=14;" value="Удалённый сотрудник" vertex="1">
+          <mxGeometry height="50" width="40" x="70" y="75" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-32" edge="1" parent="1" source="fLBc8PcX_urAEtUhWg5i-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.885;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" target="fLBc8PcX_urAEtUhWg5i-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;align=center;" value="VPN-шлюз (192.168.50.100)" vertex="1">
+          <mxGeometry height="60" width="153.5" x="530" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-14" edge="1" parent="1" source="OPT7dHHoG9acgvy2Bu8V-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="fLBc8PcX_urAEtUhWg5i-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-5" parent="1" style="rounded=1;whiteSpace=wrap;fontStyle=1;fontSize=12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Сегмет управления&#xa;&#xa;(192.168.100.0/24)" vertex="1">
+          <mxGeometry height="160" width="230" x="470" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-6" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server;fontStyle=1;fontSize=14;" value="Антивирусный сервер" vertex="1">
+          <mxGeometry height="57" width="48" x="518" y="716" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-7" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server;fontStyle=1;fontSize=14;fontColor=light-dark(#000000,#FFFFFF);" value="Система мониторинга" vertex="1">
+          <mxGeometry height="57" width="48" x="617.5" y="751.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" value="Сегмет управления&lt;br&gt;&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-weight: 400; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; text-align: start; margin: 0px !important;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(249, 250, 251), rgb(222, 234, 244));&quot;&gt;(192.168.100.0/24)&lt;/font&gt;&lt;/pre&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="470" y="364" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-8" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.exchange_mailbox_server;fontStyle=1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;srv-mail&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; text-wrap-mode: wrap;&quot;&gt;192.168.50.20&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="59" width="57" x="603" y="399" as="geometry" />
+        </mxCell>
+        <mxCell id="fLBc8PcX_urAEtUhWg5i-11" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.web_server_blue;fontStyle=1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;srv-web&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;192.168.50.10&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="57" width="48" x="508" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-4" parent="1" style="text;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="DMZ (192.168.10.0/24)" vertex="1">
+          <mxGeometry height="30" width="130" x="530" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="OPT7dHHoG9acgvy2Bu8V-15" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.file_server;fontStyle=1;fontSize=14;" value="Сервер резервного копирования&#xa;192.168.50.90" vertex="1">
+          <mxGeometry height="56" width="45" x="808" y="531" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
